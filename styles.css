@@ -1,1 +1,39 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+    background-color: white;
+    text-align: center;
+  }
+  main {
+    background-color: rgb(245,245,245);
+    border-radius: 1%;
+    padding-bottom: 2em;
+  }
+  #title {
+    padding: 1em;
+  }
+  #img-div {
+    background: white;
+    padding: 2em;
+    border-radius: 3%;
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  #img-caption {
+    padding: 1em;
+    font-size: 17px;
+  }
+  #tribute-info {}
+  #tribute-list {
+    display: inline-block;
+    text-align: left;
+  }
+  footer {
+    padding: 1em;
+    font-size: 13px;
+  }
+  #tribute-link:hover {
+    color: red;
+  }
